@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 
-plt.rcParams['figure.figsize'] = (10, 8)
+plt.rcParams['figure.pencereboyutu'] = (10, 8)
 
 # Başlangıç Parametreleri
 n_iterasyon = 20
